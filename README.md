@@ -6,3 +6,4 @@
 - SigNoz - https://signoz.io , https://github.com/signoz/signoz #monitoring #observability
 - Hashicorp - https://www.hashicorp.com , https://github.com/hashicorp #infra
 - Moov - https://moov.io , https://github.com/moov-io . #fintech
+- GitLab - https://about.gitlab.com , https://gitlab.com/gitlab-org , https://gitlab.com/gitlab-org/gitlab #scm #git-server #source-code-hosting
